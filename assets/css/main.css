@@ -277,6 +277,10 @@ p {
   text-align: left;
 }
 
+#featured {
+	padding-left: 70px;
+}
+
 sub {
   font-size: 0.8em;
   position: relative;
